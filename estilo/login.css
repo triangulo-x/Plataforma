@@ -1,0 +1,55 @@
+body
+{
+    font-family: sans-serif;
+    background-image: url("../media/imagenes/fondo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#forma_login
+{
+    background-color: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    margin: 50px auto;
+    width: 500px;
+}
+
+#forma_login p
+{
+    width: 350px;
+    margin: 20px auto;
+}
+
+#forma_login p label
+{
+    width: 100%;
+    font-size: 12px;
+}
+
+.input
+{
+    height: 30px;
+    padding: 0 2%;
+    width: 96%;
+}
+
+#boton_aceptar
+{
+    background-color: #FFFFFF;
+    border: 1px solid #CCCCCC;
+    height: 30px;
+    margin: 0 25%;
+    width: 50%;
+}
+
+#boton_aceptar:hover
+{
+    background-color: rgba(19, 72, 217, 0.10);
+}
+
+#error_msg
+{
+    color: red;
+    text-align: center;
+    margin: 20px 0 0;
+}

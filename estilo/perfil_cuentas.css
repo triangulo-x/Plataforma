@@ -1,0 +1,96 @@
+*
+{
+    font-family: "Open Sans", tahoma, helvetica, arial;
+    font-size: 12px;
+}
+
+#tabla_cuentas_wrapper
+{
+    width: 960px;
+    margin: auto;
+}
+
+h1
+{
+    padding-left: 10px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+#datos_alumno
+{
+    width: 100%;
+    overflow: auto;
+}
+
+.dato_alumno
+{
+    width: 100%;
+    float: left;
+}
+
+#datos_alumno label
+{
+    font-weight: bold;
+    float: left;
+    width: 80px;
+}
+
+#datos_alumno .value
+{
+    float: left;
+    margin-left: 10px;
+}
+
+#datos_alumno_left
+{
+    float: left;
+    width: 47%;
+    padding: 10px;
+}
+
+#datos_alumno_right
+{
+    float: right;
+    width: 47%;
+    padding: 10px;
+}
+
+#tabla_cuentas
+{
+    text-align: justify;
+    width: 100%;
+}
+
+#adeudo_total
+{
+    float: right;
+    margin-right: 55px;
+    margin-top: 10px;
+}
+
+#adeudo_total label
+{
+    font-weight: bold;
+}
+
+#recibo_header
+{
+    overflow: auto;
+    width: 960px;
+    margin: 0 auto 20px;
+}
+
+#recibo_texto_header
+{
+    float: left;
+    overflow: auto;
+    padding-top: 15px;
+    text-align: center;
+    width: 810px;
+}
+
+h1, h2, h3, h4, h5
+{
+    margin: 0px;
+}

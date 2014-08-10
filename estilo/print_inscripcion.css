@@ -1,0 +1,56 @@
+*
+{
+    font-family: helvetica, tahoma;
+    font-size: 12px;
+}
+
+.apartado
+{
+    border: 1px solid #909090;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    overflow: auto;
+}
+
+.apartado_header
+{
+    border-bottom: 1px solid #909090;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.apartado_content
+{
+    padding: 10px;
+    overflow: auto;
+}
+
+.propiedad
+{
+    font-weight: bold;
+    width: 120px;
+    float: left;
+}
+
+.valor
+{
+
+}
+
+#div_firma
+{
+    margin-top: 50px;
+    font-size: 16px;
+}
+
+#logo_wrapper
+{
+    text-align:center;
+    margin: 10px auto 20px;
+}
+
+#logo_meze
+{
+    display: inline-block;
+    margin: auto;
+}

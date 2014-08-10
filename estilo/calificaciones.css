@@ -1,0 +1,51 @@
+#datos_alumno
+{
+    border: 1px solid #CCCCCC;
+    margin: 40px auto;
+    overflow: auto;
+    padding: 1%;
+    width: 75%;
+    background-color: #fff;
+}
+
+.dato_alumno
+{
+    width: 48%;
+    margin: 10px 0 0 0;
+    float: left;
+}
+
+.label
+{
+    width: 40%;
+    float: left;
+}
+
+.value
+{
+    width: 60%;
+    float: left;
+    font-weight: bold;
+}
+
+#tabla_calificaciones
+{
+    background-color: #fff;
+    border: 1px solid #CCC;
+    width: 77%;
+    overflow: auto;
+    margin: 20px auto;
+    text-align: center;
+}
+
+#tabla_calificaciones tr
+{
+    height: 50px;
+}
+
+#mensaje_no_calificaciones
+{
+    text-align: center;
+    width: 100%;
+    font-weight: bold;
+}

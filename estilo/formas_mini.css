@@ -1,0 +1,104 @@
+form
+{
+    font-family: tahoma, helvetica, arial;
+    margin: auto;
+    overflow: auto;
+}
+
+.form_row
+{
+    float: left;
+    margin: 10px 0;
+    width: 100%;
+}
+
+.form_row_2
+{
+    float: left;
+    margin: 10px 0;
+    width: 40%;
+}
+
+.form_row_3
+{
+    float: left;
+    height: 60px;
+    margin: 10px 10px 10px 0;
+    width: 300px;
+}
+
+.form_row_4
+{
+    float: left;
+    height: 60px;
+    margin: 10px 0;
+    width: 23%;
+}
+
+.form_label
+{
+    display: block;
+    font-size: 12px;
+}
+
+.form_select
+{
+    border: 1px solid #A4C7E1;
+    height: 30px;
+    padding: 5px;
+    width: 250px;
+}
+
+.form_row_2 .form_input
+{
+    border: 1px solid #A4C7E1;
+    height: 25px;
+    padding-left: 5px;
+    width: 80%;
+}
+
+.form_input_half
+{
+    border: 1px solid #A4C7E1;
+    height: 25px;
+    padding-left: 5px;
+    width: 32%;
+}
+
+.form_row_3 .form_input
+{
+    border: 1px solid #A4C7E1;
+    height: 20px;
+    padding: 5px;
+    width: 250px;
+}
+
+.form_row_4 .form_input
+{
+    border: 1px solid #A4C7E1;
+    height: 25px;
+    padding-left: 5px;
+    width: 80%;
+}
+
+.form_submit
+{
+    width: 100px;
+    height: 40px;
+    border: 1px solid #152975;
+    color: #152975;
+    margin: auto;
+}
+
+.form_submit:hover
+{
+    background-color: #152975;
+    color: #e6e6e6;
+}
+
+form textarea
+{
+    height: 50px;
+    resize: none;
+    width: 500px;
+}

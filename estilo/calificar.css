@@ -1,0 +1,115 @@
+.calif
+{
+    width: 50px;
+}
+
+.insert
+{
+    background-color: #adeebc;
+}
+
+.update
+{
+    background-color: #b8cfff;
+}
+
+#lista_alumnos
+{
+    width: 198px;
+    border: 1px solid #15186D;
+    float: left;
+    font-size: 12px;
+    box-shadow: 2px 2px 9px #000000;
+    max-height: 400px;
+    overflow: auto;
+}
+
+.alumno
+{
+    padding: 10px;
+    height: 15px;
+}
+
+#div_parciales
+{
+    border: 1px solid #15186D;
+    margin: 20px auto;
+    width: 600px;
+    overflow: auto;
+    font-size: 12px;
+    box-shadow: 2px 2px 9px #000000;
+}
+
+.alumno:hover
+{
+    background-color: #15186D;
+    color: white;
+}
+
+.parcial:hover
+{
+    background-color: #15186D;
+    color: white;
+}
+
+#div_calificaciones
+{
+    border: 1px solid #a4c7e1;
+    min-height: 250px;
+    width: 100%;
+    overflow: auto;
+    box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    -webkit-box-sizing:border-box;
+}
+
+.alumno
+{
+    padding: 10px;
+    height: 15px;
+}
+
+.alumno:hover
+{
+    background-color: #15186D;
+    color: white;
+}
+
+.seleccionado{ background-color: #15186D; color: white; }
+
+#tabla_reportes, #tabla_calificaciones
+{
+    font-size: 12px;
+    padding: 5px;
+    width: 100%;
+}
+
+#tabla_calificaciones tr, #tabla_reportes tr
+{
+    width: 1000px;
+    height: 30px;
+}
+
+.alumno_nombre
+{
+    padding-right: 20px;
+    text-align: right;
+    width: 173px;
+}
+
+.alumno_calificacion
+{
+    width: 597px;
+}
+
+textarea
+{
+    width: 520px;
+    height: 20px;
+    resize: none;
+}
+
+.nombre_materia
+{
+    width: 244px;
+}

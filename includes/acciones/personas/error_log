@@ -1,0 +1,3 @@
+[28-Jul-2014 10:49:51 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/acciones/personas/cambiar_password.php on line 8
+[28-Jul-2014 10:49:51 America/Denver] PHP Notice:  Undefined index: grado in /home4/prevenla/public_html/meze/includes/clases/class.Maestro.php on line 16
+[28-Jul-2014 10:49:51 America/Denver] PHP Notice:  Undefined index: grupo in /home4/prevenla/public_html/meze/includes/clases/class.Maestro.php on line 17

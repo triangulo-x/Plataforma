@@ -1,0 +1,47 @@
+.perfil_div
+{
+    width: 100%;
+    float: left;
+    margin: 10px 0;
+}
+
+.perfil_div_2
+{
+    width: 50%;
+    float: left;
+    margin: 10px 0;
+}
+
+.perfil_label
+{
+    float: left;
+}
+
+.perfil_div .perfil_label
+{
+    width: 20%;
+}
+
+.perfil_div_2 .perfil_label
+{
+    width: 40%;
+}
+
+.perfil_value
+{
+    float: left;
+    font-weight: bold;
+    width: 60%;
+}
+
+.perfil_boton
+{
+    width: 130px;
+    height: 40px;
+    border: 1px solid #CCC;
+}
+
+.perfil_boton:hover
+{
+    background-color: rgba(19, 72, 217, 0.10);
+}

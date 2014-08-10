@@ -1,0 +1,60 @@
+.fixed_form
+{
+    position: fixed;
+    top: 200px;
+    left: 40%;
+    border: 1px solid #CCC;
+    display: none;
+    z-index: 6;
+}
+
+.fixed_form_handle
+{
+    width: 100%;
+    height: 16px;
+    background-color: #234C9D;
+}
+
+.fixed_form_handle img
+{
+    float: right;
+}
+
+.fixed_form_content
+{
+    padding: 10px;
+    background-color: #FFFFFF;
+    overflow: auto;
+}
+
+.fixed_form_row
+{
+    overflow: auto;
+    margin: 10px 0;
+}
+
+.fixed_form_row label
+{
+    width: 100%;
+    font-size: 12px;
+}
+
+.fixed_form_value
+{
+    width: 90%;
+    height: 30px;
+}
+
+.fixed_form_button
+{
+    border: 1px solid #CCCCCC;
+    height: 40px;
+    margin: 5px 25%;
+    width: 50%;
+}
+
+.fixed_form_button:hover
+{
+    background-color: #4745ff;
+    color: white;
+}

@@ -1,0 +1,62 @@
+.buscadorAjax
+{
+    display: none;
+    position: fixed;
+    width: 450px;
+    height: 300px;
+    top: 100px;
+    left: 30%;
+    border: 1px solid #CCC;
+    background-color: #ecefff;
+    z-index: 2;
+}
+
+.buscadorAjax_barra
+{
+    width: 100%;
+    background-color: #506AA0;
+    height: 16px;
+}
+
+.buscadorAjax_barra img
+{
+    float: right;
+}
+
+.buscadorAjax_top
+{
+    overflow: auto;
+    padding: 10px;
+    width: 430px;
+}
+
+.buscadorAjax_top_label
+{
+    
+}
+
+.buscadorAjax_top_input
+{
+    border: 1px solid #CCCCCC;
+    padding: 5px;
+    width: 240px;
+}
+
+.buscadorAjax_top_boton
+{
+    height: 30px;
+    width: 75px;
+}
+
+.buscadorAjax_contenedor_tabla
+{
+    border-top: 1px solid #CCCCCC;
+    height: 233px;
+    overflow: auto;
+    width: 100%;
+}
+
+.buscadorAjax_tabla
+{
+    
+}

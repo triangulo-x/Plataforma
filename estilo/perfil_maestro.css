@@ -1,0 +1,135 @@
+.perfil_div
+{
+    width: 100%;
+    overflow: auto;
+    height: 40px;
+}
+
+.perfil_div_2
+{
+    width: 50%;
+    float: left;
+    height: 40px;
+}
+
+.perfil_label
+{
+    font-weight: bold;
+    padding-left: 20px;
+    width: 150px;
+    float: left;
+}
+
+.perfil_value
+{
+    padding-left: 20px;
+    width: 180px;
+    float: left;
+}
+
+#wrapper_top
+{
+    overflow: auto;
+}
+
+#profile_picture
+{
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin: 20px 0 0 0;
+    display: table;
+    text-align: center;
+}
+
+#profile_picture_inner
+{
+    max-height: 200px;
+    max-width: 200px;
+    min-height: 200px;
+    min-width: 200px;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+#foto_maestro
+{
+    max-height: 197px;
+    max-width: 200px;
+    text-align: center;
+}
+
+#icono_foto
+{
+    height: 50px;
+    width: 50px;
+    z-index: 2;
+}
+
+#datos_generales
+{
+    float: left;
+    margin: 20px 0 0 0px;
+    overflow: auto;
+    padding: 0 10px;
+    width: 300px;
+}
+
+.datos_generales_row
+{
+    width: 310px;
+    margin: 5px 0;
+    overflow: auto;
+}
+
+.datos_generales_label
+{
+   width: 150px;
+   float: left;
+}
+
+.datos_generales_value
+{
+    width: 160px;
+    float: left;
+    font-weight: bold;
+}
+
+#barcode
+{
+    float: left;
+    height: 150px;
+    margin: 20px 0 0 10px;
+    padding-top: 50px;
+    width: 220px;
+}
+
+#qr_code
+{
+    border: 1px solid #CCC;
+    float: right;
+    margin: 20px 0 0 10px;
+}
+
+#tabla_emails, #tabla_telefonos, #tabla_clases
+{
+    float: left;
+    overflow: auto;
+    width: 100%;
+}
+
+#tabs
+{
+    font-size: 12px;
+    margin: auto;
+    overflow: auto;
+    width: 99%;
+    margin: 30px 0;
+}
+
+.dataTables_wrapper
+{
+    margin: 0px !important;
+    border: 0px solid #CCCCCC !important;
+    padding: 0px !important;
+}

@@ -1,0 +1,14 @@
+[17-Jul-2014 13:16:32 America/Denver] PHP Notice:  Undefined index: error in /home4/prevenla/public_html/meze/admin/ciclos_escolares/cerrar.php on line 38
+[17-Jul-2014 13:16:33 America/Denver] PHP Notice:  Undefined index: error in /home4/prevenla/public_html/meze/admin/ciclos_escolares/cerrar.php on line 38
+[19-Jul-2014 17:29:15 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[21-Jul-2014 15:37:33 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[21-Jul-2014 15:37:43 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[21-Jul-2014 15:38:01 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[22-Jul-2014 13:03:16 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[22-Jul-2014 13:03:19 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[22-Jul-2014 13:04:14 America/Denver] PHP Notice:  Undefined index: error in /home4/prevenla/public_html/meze/admin/ciclos_escolares/cerrar.php on line 38
+[22-Jul-2014 13:04:17 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[22-Jul-2014 13:25:24 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[22-Jul-2014 13:36:08 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[28-Jul-2014 10:02:49 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[30-Jul-2014 14:21:42 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6

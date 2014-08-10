@@ -1,0 +1,302 @@
+[14-Jul-2014 13:57:24 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[14-Jul-2014 14:04:19 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[14-Jul-2014 14:04:29 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[15-Jul-2014 10:30:50 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[15-Jul-2014 10:30:50 America/Denver] PHP Notice:  Undefined variable: alumnos_inscritos in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 51
+[15-Jul-2014 14:39:15 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[16-Jul-2014 12:41:41 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[16-Jul-2014 13:21:57 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[16-Jul-2014 13:21:57 America/Denver] PHP Notice:  Undefined variable: alumnos_inscritos in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 51
+[16-Jul-2014 13:22:25 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[16-Jul-2014 13:23:13 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[16-Jul-2014 13:23:13 America/Denver] PHP Notice:  Undefined variable: alumnos_inscritos in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 51
+[16-Jul-2014 13:23:18 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[16-Jul-2014 13:23:18 America/Denver] PHP Notice:  Undefined variable: alumnos_inscritos in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 51
+[16-Jul-2014 13:23:21 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[16-Jul-2014 13:23:26 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[16-Jul-2014 13:23:26 America/Denver] PHP Notice:  Undefined variable: alumnos_inscritos in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 51
+[16-Jul-2014 13:35:22 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 09:58:12 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[19-Jul-2014 09:58:25 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[19-Jul-2014 09:58:28 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[19-Jul-2014 09:59:09 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 10:05:14 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 10:15:51 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 10:21:02 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 10:24:14 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[19-Jul-2014 10:36:06 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[19-Jul-2014 10:36:07 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[19-Jul-2014 10:36:15 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[19-Jul-2014 10:36:19 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[19-Jul-2014 10:37:35 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 10:42:09 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 11:04:29 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 11:10:12 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[19-Jul-2014 11:10:12 America/Denver] PHP Notice:  Undefined variable: alumnos_inscritos in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 51
+[19-Jul-2014 11:10:42 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[19-Jul-2014 11:10:42 America/Denver] PHP Notice:  Undefined variable: alumnos_inscritos in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 51
+[19-Jul-2014 11:10:48 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 11:11:21 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[19-Jul-2014 11:11:21 America/Denver] PHP Notice:  Undefined variable: alumnos_inscritos in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 51
+[19-Jul-2014 11:11:23 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[19-Jul-2014 13:49:17 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 13:49:17 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[19-Jul-2014 13:49:17 America/Denver] PHP Notice:  Undefined variable: alumnos_inscritos in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 51
+[19-Jul-2014 13:49:18 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[19-Jul-2014 13:49:18 America/Denver] PHP Notice:  Undefined variable: alumnos_inscritos in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 51
+[19-Jul-2014 13:49:26 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[19-Jul-2014 13:49:26 America/Denver] PHP Notice:  Undefined variable: alumnos_inscritos in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 51
+[19-Jul-2014 13:49:26 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[19-Jul-2014 13:49:26 America/Denver] PHP Notice:  Undefined variable: alumnos_inscritos in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 51
+[19-Jul-2014 13:51:25 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[19-Jul-2014 13:52:40 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[19-Jul-2014 13:52:49 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[19-Jul-2014 13:52:49 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[19-Jul-2014 14:39:13 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 14:39:26 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 14:46:13 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[19-Jul-2014 14:46:27 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[19-Jul-2014 14:46:37 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[19-Jul-2014 14:46:51 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[19-Jul-2014 17:34:15 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[19-Jul-2014 17:34:56 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[19-Jul-2014 17:35:05 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[19-Jul-2014 17:52:59 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[19-Jul-2014 17:53:14 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[19-Jul-2014 17:53:25 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[19-Jul-2014 17:53:35 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 17:53:36 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[21-Jul-2014 08:10:20 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[21-Jul-2014 08:11:16 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[21-Jul-2014 11:11:26 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[21-Jul-2014 11:12:03 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[21-Jul-2014 11:20:17 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[21-Jul-2014 13:45:16 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[21-Jul-2014 13:46:26 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[21-Jul-2014 15:22:22 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[21-Jul-2014 15:28:58 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[21-Jul-2014 15:29:42 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[21-Jul-2014 15:29:57 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[21-Jul-2014 15:30:13 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[21-Jul-2014 15:49:00 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[21-Jul-2014 15:49:04 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[21-Jul-2014 16:20:19 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[21-Jul-2014 16:22:18 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[21-Jul-2014 16:24:29 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[22-Jul-2014 10:29:32 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[22-Jul-2014 10:29:38 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[22-Jul-2014 10:30:53 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[22-Jul-2014 10:37:31 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[22-Jul-2014 10:37:40 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[22-Jul-2014 10:43:41 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[22-Jul-2014 10:45:05 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[22-Jul-2014 10:46:41 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[22-Jul-2014 10:48:33 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[22-Jul-2014 10:55:18 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[22-Jul-2014 11:00:47 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[22-Jul-2014 11:00:59 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[22-Jul-2014 11:54:20 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[22-Jul-2014 11:54:24 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[22-Jul-2014 11:58:20 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[22-Jul-2014 11:58:35 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[22-Jul-2014 12:03:56 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[22-Jul-2014 12:03:56 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[22-Jul-2014 12:04:18 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[22-Jul-2014 12:04:18 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[22-Jul-2014 12:04:31 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[22-Jul-2014 12:04:31 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[22-Jul-2014 13:07:47 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[22-Jul-2014 13:07:47 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home4/prevenla/public_html/meze/admin/alumnos/inscribir.php on line 351
+[25-Jul-2014 10:00:18 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[25-Jul-2014 10:00:18 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home4/prevenla/public_html/meze/admin/alumnos/inscribir.php on line 351
+[28-Jul-2014 10:25:17 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[28-Jul-2014 10:25:17 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home4/prevenla/public_html/meze/admin/alumnos/inscribir.php on line 351
+[28-Jul-2014 10:25:53 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[28-Jul-2014 10:25:53 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home4/prevenla/public_html/meze/admin/alumnos/inscribir.php on line 351
+[28-Jul-2014 10:26:02 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[28-Jul-2014 10:27:58 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[28-Jul-2014 10:29:19 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[28-Jul-2014 10:29:19 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[28-Jul-2014 10:30:55 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[28-Jul-2014 10:37:25 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[30-Jul-2014 12:27:30 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[30-Jul-2014 12:27:30 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home4/prevenla/public_html/meze/admin/alumnos/inscribir.php on line 351
+[30-Jul-2014 14:17:56 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[30-Jul-2014 14:18:11 America/Denver] PHP Notice:  Undefined variable: selected in /home4/prevenla/public_html/meze/admin/alumnos/alumnos_inscritos.php on line 30
+[30-Jul-2014 15:09:24 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[30-Jul-2014 15:09:24 America/Denver] PHP Notice:  Undefined variable: grado in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 395
+[30-Jul-2014 15:09:24 America/Denver] PHP Notice:  Array to string conversion in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 395
+[30-Jul-2014 15:10:34 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[30-Jul-2014 15:10:34 America/Denver] PHP Notice:  Undefined variable: grado in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 395
+[30-Jul-2014 15:10:34 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[30-Jul-2014 15:11:09 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[30-Jul-2014 15:11:09 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[31-Jul-2014 09:49:42 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 09:49:42 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[31-Jul-2014 10:17:15 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 10:17:15 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[31-Jul-2014 10:18:55 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 10:18:55 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[31-Jul-2014 10:19:42 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 10:19:42 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[31-Jul-2014 13:19:09 America/Denver] PHP Parse error:  syntax error, unexpected '.' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 939
+[31-Jul-2014 13:23:50 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:23:50 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[31-Jul-2014 13:23:50 America/Denver] PHP Notice:  Array to string conversion in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 526
+[31-Jul-2014 13:23:50 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:23:50 America/Denver] PHP Notice:  Array to string conversion in /home4/prevenla/public_html/meze/includes/clases/class.Grado.php on line 39
+[31-Jul-2014 13:23:50 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:42:57 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:42:57 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[31-Jul-2014 13:42:57 America/Denver] PHP Notice:  Array to string conversion in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 526
+[31-Jul-2014 13:42:57 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:42:57 America/Denver] PHP Notice:  Array to string conversion in /home4/prevenla/public_html/meze/includes/clases/class.Grado.php on line 39
+[31-Jul-2014 13:42:57 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:52:39 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:52:39 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[31-Jul-2014 13:52:39 America/Denver] PHP Notice:  Array to string conversion in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 526
+[31-Jul-2014 13:52:39 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:52:39 America/Denver] PHP Notice:  Array to string conversion in /home4/prevenla/public_html/meze/includes/clases/class.Grado.php on line 39
+[31-Jul-2014 13:52:39 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:53:22 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:53:22 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[31-Jul-2014 13:53:22 America/Denver] PHP Notice:  Array to string conversion in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 526
+[31-Jul-2014 13:53:22 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:53:22 America/Denver] PHP Notice:  Array to string conversion in /home4/prevenla/public_html/meze/includes/clases/class.Grado.php on line 39
+[31-Jul-2014 13:53:22 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:53:49 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:53:49 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[31-Jul-2014 13:53:49 America/Denver] PHP Notice:  Array to string conversion in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 526
+[31-Jul-2014 13:53:49 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:53:49 America/Denver] PHP Notice:  Array to string conversion in /home4/prevenla/public_html/meze/includes/clases/class.Grado.php on line 39
+[31-Jul-2014 13:53:49 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:54:47 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:54:47 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[31-Jul-2014 13:54:47 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 933
+[31-Jul-2014 13:55:50 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:55:50 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[31-Jul-2014 13:55:50 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 933
+[31-Jul-2014 13:57:45 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:57:45 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[31-Jul-2014 13:57:45 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 933
+[31-Jul-2014 13:58:26 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:58:26 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 402
+[31-Jul-2014 13:58:26 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 934
+[31-Jul-2014 13:59:17 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:59:17 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[31-Jul-2014 13:59:17 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 933
+[31-Jul-2014 13:59:37 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:59:37 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[31-Jul-2014 13:59:37 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 934
+[31-Jul-2014 13:59:56 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:59:56 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[31-Jul-2014 13:59:57 America/Denver] PHP Notice:  Undefined index: id_grado in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 529
+[31-Jul-2014 13:59:57 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 14:01:12 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 14:01:12 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[31-Jul-2014 14:05:51 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 14:05:51 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[31-Jul-2014 14:05:51 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 934
+[31-Jul-2014 14:05:51 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 14:05:51 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[31-Jul-2014 14:05:51 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 934
+[02-Aug-2014 11:20:16 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[02-Aug-2014 11:20:16 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home4/prevenla/public_html/meze/admin/alumnos/inscribir.php on line 351
+[04-Aug-2014 10:25:21 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[04-Aug-2014 10:25:21 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[04-Aug-2014 10:25:22 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 934
+[05-Aug-2014 11:33:20 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[05-Aug-2014 11:33:20 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[05-Aug-2014 11:33:20 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 934
+[05-Aug-2014 11:36:58 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[05-Aug-2014 11:36:58 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[05-Aug-2014 11:36:58 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 934
+[05-Aug-2014 11:39:32 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[05-Aug-2014 11:39:32 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[05-Aug-2014 11:39:32 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 934
+[05-Aug-2014 12:52:48 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[05-Aug-2014 12:52:48 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[05-Aug-2014 12:52:48 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 934
+[06-Aug-2014 10:29:53 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[06-Aug-2014 10:29:53 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[06-Aug-2014 10:29:53 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 934
+[06-Aug-2014 13:00:53 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[06-Aug-2014 13:00:53 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[06-Aug-2014 13:00:53 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 934
+[07-Aug-2014 09:40:19 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[07-Aug-2014 09:40:19 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[07-Aug-2014 09:40:19 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 934
+[07-Aug-2014 09:45:40 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[07-Aug-2014 09:45:40 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[07-Aug-2014 09:45:40 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 934
+[07-Aug-2014 09:46:30 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[07-Aug-2014 09:46:30 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[07-Aug-2014 09:46:30 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 934
+[07-Aug-2014 09:47:17 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[07-Aug-2014 09:47:17 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[07-Aug-2014 09:47:17 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 934
+[07-Aug-2014 09:48:12 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[07-Aug-2014 09:48:12 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[07-Aug-2014 09:48:12 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 934
+[07-Aug-2014 09:51:11 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[07-Aug-2014 09:51:11 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[07-Aug-2014 09:51:48 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[07-Aug-2014 09:51:48 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[07-Aug-2014 09:52:45 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[07-Aug-2014 09:52:45 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[07-Aug-2014 09:53:22 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[07-Aug-2014 09:53:22 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[07-Aug-2014 09:53:50 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[07-Aug-2014 09:53:50 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 401
+[07-Aug-2014 10:09:39 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[07-Aug-2014 10:09:39 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 406
+[07-Aug-2014 10:10:58 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[07-Aug-2014 10:10:58 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 406
+[07-Aug-2014 10:10:58 America/Denver] PHP Warning:  Illegal string offset 'id_grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 945
+[07-Aug-2014 10:11:52 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[07-Aug-2014 10:11:52 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 406
+[07-Aug-2014 10:11:52 America/Denver] PHP Warning:  Illegal string offset 'id_grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 945
+[07-Aug-2014 10:14:55 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[07-Aug-2014 10:14:57 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 406
+[07-Aug-2014 10:14:57 America/Denver] PHP Notice:  Undefined index: periodos in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 672
+[07-Aug-2014 10:14:57 America/Denver] PHP Warning:  Illegal string offset 'id_grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 946
+[07-Aug-2014 10:15:27 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[07-Aug-2014 10:15:28 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 406
+[07-Aug-2014 10:15:28 America/Denver] PHP Notice:  Undefined index: periodos in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 672
+[07-Aug-2014 10:15:28 America/Denver] PHP Warning:  Illegal string offset 'id_grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 946
+[07-Aug-2014 10:16:04 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[07-Aug-2014 10:16:04 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 406
+[07-Aug-2014 10:16:04 America/Denver] PHP Notice:  Undefined index: periodos in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 672
+[07-Aug-2014 10:16:04 America/Denver] PHP Warning:  Illegal string offset 'id_grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 947
+[07-Aug-2014 10:17:13 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[07-Aug-2014 10:17:13 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 406
+[07-Aug-2014 10:17:13 America/Denver] PHP Warning:  Illegal string offset 'id_grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 947
+[07-Aug-2014 10:20:24 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[07-Aug-2014 10:20:24 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 406
+[07-Aug-2014 10:20:24 America/Denver] PHP Warning:  Illegal string offset 'id_grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 946
+[07-Aug-2014 10:27:07 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[07-Aug-2014 10:27:07 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 406
+[07-Aug-2014 11:07:23 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[07-Aug-2014 11:07:23 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 406
+[07-Aug-2014 11:08:34 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[07-Aug-2014 11:08:34 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 406
+[07-Aug-2014 11:08:35 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[07-Aug-2014 11:08:35 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 406
+[07-Aug-2014 11:09:44 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[07-Aug-2014 11:09:44 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 406
+[07-Aug-2014 12:04:47 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:04:47 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 406
+[07-Aug-2014 12:05:11 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:05:11 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 406
+[07-Aug-2014 12:06:28 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:06:28 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 406
+[07-Aug-2014 12:06:51 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:06:51 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 406
+[07-Aug-2014 12:08:57 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:08:57 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 406
+[07-Aug-2014 12:16:05 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:16:05 America/Denver] PHP Warning:  Illegal string offset 'grupo' in /home4/prevenla/public_html/meze/admin/alumnos/perfil.php on line 406
+[08-Aug-2014 10:32:15 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[08-Aug-2014 10:32:15 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home4/prevenla/public_html/meze/admin/alumnos/inscribir.php on line 351
+[08-Aug-2014 11:03:13 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[08-Aug-2014 11:03:13 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home4/prevenla/public_html/meze/admin/alumnos/inscribir.php on line 351

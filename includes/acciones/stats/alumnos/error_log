@@ -1,0 +1,11 @@
+[21-Jul-2014 15:21:23 America/Denver] PHP Notice:  Use of undefined constant ciclo - assumed 'ciclo' in /home4/prevenla/public_html/meze/includes/acciones/stats/alumnos/inscripciones_ciclos.php on line 17
+[21-Jul-2014 15:21:23 America/Denver] PHP Notice:  Use of undefined constant altas - assumed 'altas' in /home4/prevenla/public_html/meze/includes/acciones/stats/alumnos/inscripciones_ciclos.php on line 17
+[21-Jul-2014 15:21:23 America/Denver] PHP Notice:  Use of undefined constant bajas - assumed 'bajas' in /home4/prevenla/public_html/meze/includes/acciones/stats/alumnos/inscripciones_ciclos.php on line 17
+[21-Jul-2014 15:21:23 America/Denver] PHP Notice:  Use of undefined constant ciclo - assumed 'ciclo' in /home4/prevenla/public_html/meze/includes/acciones/stats/alumnos/inscripciones_ciclos.php on line 17
+[21-Jul-2014 15:21:23 America/Denver] PHP Notice:  Use of undefined constant altas - assumed 'altas' in /home4/prevenla/public_html/meze/includes/acciones/stats/alumnos/inscripciones_ciclos.php on line 17
+[21-Jul-2014 15:21:23 America/Denver] PHP Notice:  Use of undefined constant bajas - assumed 'bajas' in /home4/prevenla/public_html/meze/includes/acciones/stats/alumnos/inscripciones_ciclos.php on line 17
+[21-Jul-2014 15:21:24 America/Denver] PHP Notice:  Use of undefined constant ciclo - assumed 'ciclo' in /home4/prevenla/public_html/meze/includes/acciones/stats/alumnos/inscritos_ciclos.php on line 18
+[21-Jul-2014 15:21:24 America/Denver] PHP Notice:  Use of undefined constant alumnos - assumed 'alumnos' in /home4/prevenla/public_html/meze/includes/acciones/stats/alumnos/inscritos_ciclos.php on line 18
+[21-Jul-2014 15:21:24 America/Denver] PHP Notice:  Use of undefined constant ciclo - assumed 'ciclo' in /home4/prevenla/public_html/meze/includes/acciones/stats/alumnos/inscritos_ciclos.php on line 18
+[21-Jul-2014 15:21:24 America/Denver] PHP Notice:  Use of undefined constant alumnos - assumed 'alumnos' in /home4/prevenla/public_html/meze/includes/acciones/stats/alumnos/inscritos_ciclos.php on line 18
+[21-Jul-2014 15:21:25 America/Denver] PHP Notice:  Use of undefined constant value - assumed 'value' in /home4/prevenla/public_html/meze/includes/acciones/stats/alumnos/distribucion_area.php on line 33

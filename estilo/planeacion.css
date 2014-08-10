@@ -1,0 +1,177 @@
+#opciones_top
+{
+    overflow: auto;    
+}
+
+.div_select
+{
+    float: left;
+    margin: 0 20px 0 0;
+    overflow: auto;
+    width: 250px;
+}
+
+.div_select label
+{
+    font-size: 12px;
+    display: block;
+}
+
+.div_select select
+{
+    border: 1px solid #CCCCCC;
+    height: 30px;
+    padding: 5px;
+    float: left;
+    width: 85%;
+}
+
+#main_content
+{
+    overflow: auto;
+    margin: 0 0 20px;
+    display: none;
+}
+
+#div_temas
+{
+    float: left;
+    margin: 20px 0 0;
+    overflow: auto;
+}
+
+.div_bloque
+{
+    overflow: auto;
+}
+
+.div_select img
+{
+    height: 20px;
+    padding: 5px;
+    width: 20px;
+}
+
+#div_nuevo_tema
+{
+    width: 300px;
+}
+
+.lista_temas
+{
+    border-radius: 2px 2px 2px 2px;
+    color: #333333;
+    float: left;
+    font-size: 12px;
+    list-style: none outside none;
+    min-width: 207px;
+    overflow: auto;
+    padding: 0;
+    margin: 0 0 10px;
+    min-height: 30px;
+}
+
+#div_temas_seleccionados
+{
+    border: 1px solid #CCCCCC;
+    overflow: auto;
+    width: 207px;
+    float: left;
+    border-radius: 2px 2px 2px 2px;
+}
+
+#div_temas_disponibles
+{
+    border: 1px solid #CCCCCC;
+    border-radius: 3px 3px 3px 3px;
+    float: left;
+    margin: 0 20px 0 0;
+    width: 207px;
+    height: 335px;
+}
+
+#temas_disponibles
+{
+    height: 238px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.stuck
+{
+    background-color: #7775FD;
+    border: 1px solid #888888;
+    border-radius: 2px 2px 2px 2px;
+    font-weight: bold;
+    height: 22px;
+    padding: 3px 0 0;
+    text-align: center;
+    width: 99.2%;
+}
+
+.swappable
+{
+    background-color: #99B3FF;
+    border: 1px solid #888888;
+    border-radius: 2px 2px 2px 2px;
+    height: 15px;
+    margin: 2px 5px 2px 0;
+    padding: 0 0 0 5px;
+    width: 178px;
+}
+
+.placeholder
+{
+    border: 1px solid black;
+    height: 15px;
+    background-color: #FFF;
+    border-radius: 2px 2px 2px 2px;
+    margin: 2px 5px 3px 0;
+    width: 178px;
+}
+
+#div_estrategias, #div_metodos_evaluacion
+{
+    border: 1px solid #CCCCCC;
+    border-radius: 2px 2px 2px 2px;
+    float: left;
+    margin: 20px 0 0 20px;
+    width: 230px;
+    overflow: auto;
+    height: 335px;
+}
+
+#tabla_estrategias, #tabla_metodos_ev
+{
+    font-size: 12px;
+    overflow: auto;
+    display: block;
+    height: 248px;
+}
+
+#bot_nuevo_tema
+{
+    margin: 10px 53px;
+}
+
+#bot_nueva_strat, #bot_nuevo_met
+{
+    margin: 10px 65px;
+}
+
+#tabla_estrategias tbody tr
+{
+    margin: 0px;
+}
+
+#boton_guardar_final
+{
+    margin: 20px 36%;
+    width: 200px;
+}
+
+#boton_seleccionar
+{
+    height: 30px;
+    margin: 15px 0 0;
+}

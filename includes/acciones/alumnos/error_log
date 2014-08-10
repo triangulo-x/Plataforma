@@ -1,0 +1,259 @@
+[14-Jul-2014 12:59:06 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[14-Jul-2014 12:59:06 America/Denver] PHP Notice:  Undefined variable: id_ciclo_escolar in /home4/prevenla/public_html/meze/includes/acciones/alumnos/loadInscritos.php on line 16
+[14-Jul-2014 12:59:06 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[14-Jul-2014 13:30:11 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[14-Jul-2014 13:30:11 America/Denver] PHP Notice:  Undefined variable: id_ciclo_escolar in /home4/prevenla/public_html/meze/includes/acciones/alumnos/loadInscritos.php on line 16
+[14-Jul-2014 13:30:11 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[14-Jul-2014 14:02:56 America/Denver] PHP Notice:  Undefined index: becado in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 174
+[14-Jul-2014 14:02:56 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 176
+[14-Jul-2014 14:02:56 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[14-Jul-2014 14:03:30 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[14-Jul-2014 14:03:30 America/Denver] PHP Notice:  Undefined index: direccion_trabajo in /home4/prevenla/public_html/meze/includes/acciones/alumnos/print_inscripcion.php on line 61
+[15-Jul-2014 09:49:02 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[15-Jul-2014 09:49:02 America/Denver] PHP Notice:  Undefined variable: id_ciclo_escolar in /home4/prevenla/public_html/meze/includes/acciones/alumnos/loadInscritos.php on line 16
+[15-Jul-2014 09:49:02 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[15-Jul-2014 10:30:50 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[15-Jul-2014 10:30:51 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[16-Jul-2014 12:47:01 America/Denver] PHP Notice:  Undefined index: becado in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 174
+[16-Jul-2014 12:47:02 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 176
+[16-Jul-2014 12:47:02 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[16-Jul-2014 13:21:58 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[16-Jul-2014 13:21:58 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[16-Jul-2014 13:23:13 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[16-Jul-2014 13:23:13 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[16-Jul-2014 13:23:19 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[16-Jul-2014 13:23:20 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[16-Jul-2014 13:23:27 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[16-Jul-2014 13:23:27 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 09:58:17 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[19-Jul-2014 09:58:25 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[19-Jul-2014 10:22:56 America/Denver] PHP Notice:  Undefined index: becado in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 174
+[19-Jul-2014 10:22:56 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 176
+[19-Jul-2014 10:24:47 America/Denver] PHP Notice:  Undefined index: recargos in /home4/prevenla/public_html/meze/includes/acciones/alumnos/print_status_cuentas.php on line 40
+[19-Jul-2014 10:24:47 America/Denver] PHP Notice:  Undefined variable: color in /home4/prevenla/public_html/meze/includes/acciones/alumnos/print_status_cuentas.php on line 47
+[19-Jul-2014 10:44:30 America/Denver] PHP Notice:  Undefined index: becado in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 174
+[19-Jul-2014 10:44:30 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 176
+[19-Jul-2014 10:44:32 America/Denver] PHP Notice:  Undefined index: direccion_trabajo in /home4/prevenla/public_html/meze/includes/acciones/alumnos/print_inscripcion.php on line 61
+[19-Jul-2014 11:07:31 America/Denver] PHP Notice:  Undefined index: becado in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 174
+[19-Jul-2014 11:07:31 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 176
+[19-Jul-2014 11:07:33 America/Denver] PHP Notice:  Undefined index: direccion_trabajo in /home4/prevenla/public_html/meze/includes/acciones/alumnos/print_inscripcion.php on line 61
+[19-Jul-2014 11:10:13 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 11:10:14 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 11:10:43 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 11:10:44 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 11:11:21 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 11:11:22 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 11:11:23 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[19-Jul-2014 13:49:18 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 13:49:19 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 13:49:21 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 13:49:22 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 13:49:24 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 13:49:25 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 13:49:34 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 13:49:35 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 13:51:25 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 13:51:26 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 13:52:41 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 13:52:44 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 13:52:47 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 13:52:54 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 13:53:34 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 13:53:54 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 14:40:41 America/Denver] PHP Notice:  Undefined index: becado in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 174
+[19-Jul-2014 14:40:41 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 176
+[19-Jul-2014 14:40:50 America/Denver] PHP Notice:  Undefined index: direccion_trabajo in /home4/prevenla/public_html/meze/includes/acciones/alumnos/print_inscripcion.php on line 61
+[19-Jul-2014 14:46:54 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[19-Jul-2014 17:34:16 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[19-Jul-2014 17:34:56 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 17:35:07 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 17:53:00 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 17:53:10 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 17:53:11 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 17:53:15 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[19-Jul-2014 17:53:25 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 17:53:37 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[21-Jul-2014 08:10:21 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[21-Jul-2014 11:11:26 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[21-Jul-2014 11:12:04 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[21-Jul-2014 11:20:19 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[21-Jul-2014 13:46:11 America/Denver] PHP Notice:  Undefined index: becado in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 174
+[21-Jul-2014 13:46:12 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 176
+[21-Jul-2014 13:46:12 America/Denver] PHP Notice:  Undefined property: stdClass::$id_documento in /home4/prevenla/public_html/meze/includes/acciones/alumnos/insert.php on line 76
+[21-Jul-2014 13:46:19 America/Denver] PHP Notice:  Undefined index: direccion_trabajo in /home4/prevenla/public_html/meze/includes/acciones/alumnos/print_inscripcion.php on line 61
+[21-Jul-2014 13:48:45 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home4/prevenla/public_html/meze/includes/acciones/alumnos/buscar_alumnos.php on line 19
+[21-Jul-2014 15:22:28 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[21-Jul-2014 15:23:54 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[21-Jul-2014 15:24:07 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[21-Jul-2014 15:29:25 America/Denver] PHP Notice:  Undefined index: becado in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 174
+[21-Jul-2014 15:29:25 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 176
+[21-Jul-2014 15:49:00 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[21-Jul-2014 16:16:43 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home4/prevenla/public_html/meze/includes/acciones/alumnos/buscar_alumnos.php on line 19
+[21-Jul-2014 16:16:49 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home4/prevenla/public_html/meze/includes/acciones/alumnos/buscar_alumnos.php on line 19
+[21-Jul-2014 16:20:20 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[21-Jul-2014 16:22:19 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[21-Jul-2014 16:24:30 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[22-Jul-2014 10:29:32 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[22-Jul-2014 10:29:41 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[22-Jul-2014 10:37:02 America/Denver] PHP Notice:  Undefined index: becado in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 174
+[22-Jul-2014 10:37:02 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 176
+[22-Jul-2014 10:37:13 America/Denver] PHP Notice:  Undefined index: direccion_trabajo in /home4/prevenla/public_html/meze/includes/acciones/alumnos/print_inscripcion.php on line 61
+[22-Jul-2014 10:42:40 America/Denver] PHP Notice:  Undefined index: becado in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 174
+[22-Jul-2014 10:42:40 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 176
+[22-Jul-2014 10:42:47 America/Denver] PHP Notice:  Undefined index: direccion_trabajo in /home4/prevenla/public_html/meze/includes/acciones/alumnos/print_inscripcion.php on line 61
+[22-Jul-2014 10:43:42 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[22-Jul-2014 11:00:32 America/Denver] PHP Notice:  Undefined index: becado in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 174
+[22-Jul-2014 11:00:32 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 176
+[22-Jul-2014 11:00:38 America/Denver] PHP Notice:  Undefined index: direccion_trabajo in /home4/prevenla/public_html/meze/includes/acciones/alumnos/print_inscripcion.php on line 61
+[22-Jul-2014 11:54:05 America/Denver] PHP Notice:  Undefined index: becado in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 174
+[22-Jul-2014 11:54:05 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 176
+[22-Jul-2014 11:54:12 America/Denver] PHP Notice:  Undefined index: direccion_trabajo in /home4/prevenla/public_html/meze/includes/acciones/alumnos/print_inscripcion.php on line 61
+[22-Jul-2014 11:58:08 America/Denver] PHP Notice:  Undefined index: becado in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 174
+[22-Jul-2014 11:58:08 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 176
+[22-Jul-2014 11:58:13 America/Denver] PHP Notice:  Undefined index: direccion_trabajo in /home4/prevenla/public_html/meze/includes/acciones/alumnos/print_inscripcion.php on line 61
+[22-Jul-2014 12:03:45 America/Denver] PHP Notice:  Undefined index: becado in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 174
+[22-Jul-2014 12:03:45 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 176
+[22-Jul-2014 12:03:49 America/Denver] PHP Notice:  Undefined index: direccion_trabajo in /home4/prevenla/public_html/meze/includes/acciones/alumnos/print_inscripcion.php on line 61
+[25-Jul-2014 09:59:52 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home4/prevenla/public_html/meze/includes/acciones/alumnos/buscar_alumnos.php on line 19
+[25-Jul-2014 10:00:07 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home4/prevenla/public_html/meze/includes/acciones/alumnos/buscar_alumnos.php on line 19
+[28-Jul-2014 10:25:38 America/Denver] PHP Notice:  Undefined index: becado in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 174
+[28-Jul-2014 10:25:38 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 176
+[28-Jul-2014 10:26:04 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[28-Jul-2014 10:27:59 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[28-Jul-2014 10:29:21 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[28-Jul-2014 10:30:57 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[28-Jul-2014 10:37:26 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[30-Jul-2014 14:17:58 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[30-Jul-2014 14:18:11 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[30-Jul-2014 15:09:25 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[30-Jul-2014 15:10:35 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[30-Jul-2014 15:11:10 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 09:49:43 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 10:17:16 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 10:18:57 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 10:19:43 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:23:52 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:42:59 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:52:41 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:53:24 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:53:51 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:54:48 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:55:51 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:57:47 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:58:27 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:59:18 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:59:39 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 13:59:58 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 14:01:13 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[31-Jul-2014 14:05:53 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[02-Aug-2014 11:20:47 America/Denver] PHP Notice:  Undefined index: becado in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 174
+[02-Aug-2014 11:20:47 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 176
+[04-Aug-2014 10:25:25 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[05-Aug-2014 11:33:22 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[05-Aug-2014 11:37:00 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[06-Aug-2014 10:29:54 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[06-Aug-2014 13:00:54 America/Denver] PHP Notice:  Undefined variable: calificacionesARR in /home4/prevenla/public_html/meze/includes/acciones/alumnos/get_calificaciones_ciclo.php on line 37
+[06-Aug-2014 13:00:54 America/Denver] PHP Notice:  Undefined variable: promedio_materia in /home4/prevenla/public_html/meze/includes/acciones/alumnos/get_calificaciones_ciclo.php on line 50
+[06-Aug-2014 13:00:54 America/Denver] PHP Notice:  Undefined variable: promedio_general in /home4/prevenla/public_html/meze/includes/acciones/alumnos/get_calificaciones_ciclo.php on line 54
+[06-Aug-2014 13:00:54 America/Denver] PHP Notice:  Undefined variable: calificacionesARR in /home4/prevenla/public_html/meze/includes/acciones/alumnos/get_calificaciones_ciclo.php on line 37
+[06-Aug-2014 13:00:54 America/Denver] PHP Notice:  Undefined variable: materias_promediadas in /home4/prevenla/public_html/meze/includes/acciones/alumnos/get_calificaciones_ciclo.php on line 56
+[06-Aug-2014 13:00:54 America/Denver] PHP Notice:  Undefined variable: calificacionesARR in /home4/prevenla/public_html/meze/includes/acciones/alumnos/get_calificaciones_ciclo.php on line 37
+[07-Aug-2014 12:05:09 America/Denver] PHP Notice:  Undefined variable: id_alumno in /home4/prevenla/public_html/meze/includes/acciones/alumnos/cambiar_grupo.php on line 15
+[07-Aug-2014 12:05:09 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:05:09 America/Denver] PHP Notice:  Undefined variable: id_grupo in /home4/prevenla/public_html/meze/includes/acciones/alumnos/cambiar_grupo.php on line 16
+[07-Aug-2014 12:05:09 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:05:09 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 559
+[07-Aug-2014 12:05:09 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 574
+[07-Aug-2014 12:05:55 America/Denver] PHP Notice:  Undefined variable: id_alumno in /home4/prevenla/public_html/meze/includes/acciones/alumnos/cambiar_grupo.php on line 15
+[07-Aug-2014 12:05:55 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:05:55 America/Denver] PHP Notice:  Undefined variable: id_grupo in /home4/prevenla/public_html/meze/includes/acciones/alumnos/cambiar_grupo.php on line 16
+[07-Aug-2014 12:05:55 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:05:55 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 559
+[07-Aug-2014 12:05:55 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 575
+[07-Aug-2014 12:06:33 America/Denver] PHP Notice:  Undefined variable: id_alumno in /home4/prevenla/public_html/meze/includes/acciones/alumnos/cambiar_grupo.php on line 15
+[07-Aug-2014 12:06:33 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:06:33 America/Denver] PHP Notice:  Undefined variable: id_grupo in /home4/prevenla/public_html/meze/includes/acciones/alumnos/cambiar_grupo.php on line 16
+[07-Aug-2014 12:06:33 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:06:33 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 560
+[07-Aug-2014 12:06:33 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 576
+[07-Aug-2014 12:07:17 America/Denver] PHP Notice:  Undefined variable: id_alumno in /home4/prevenla/public_html/meze/includes/acciones/alumnos/cambiar_grupo.php on line 15
+[07-Aug-2014 12:07:17 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:07:17 America/Denver] PHP Notice:  Undefined variable: id_grupo in /home4/prevenla/public_html/meze/includes/acciones/alumnos/cambiar_grupo.php on line 16
+[07-Aug-2014 12:07:17 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:07:17 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 561
+[07-Aug-2014 12:07:17 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 577
+[07-Aug-2014 12:07:59 America/Denver] PHP Notice:  Undefined variable: id_alumno in /home4/prevenla/public_html/meze/includes/acciones/alumnos/cambiar_grupo.php on line 15
+[07-Aug-2014 12:07:59 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:07:59 America/Denver] PHP Notice:  Undefined variable: id_grupo in /home4/prevenla/public_html/meze/includes/acciones/alumnos/cambiar_grupo.php on line 16
+[07-Aug-2014 12:07:59 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:07:59 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 560
+[07-Aug-2014 12:07:59 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 576
+[07-Aug-2014 12:09:03 America/Denver] PHP Notice:  Undefined variable: id_alumno in /home4/prevenla/public_html/meze/includes/acciones/alumnos/cambiar_grupo.php on line 15
+[07-Aug-2014 12:09:03 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:09:03 America/Denver] PHP Notice:  Undefined variable: id_grupo in /home4/prevenla/public_html/meze/includes/acciones/alumnos/cambiar_grupo.php on line 17
+[07-Aug-2014 12:09:03 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:09:03 America/Denver] PHP Warning:  Invalid argument supplied for foreach() in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 560
+[07-Aug-2014 12:09:03 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 576
+[07-Aug-2014 12:10:26 America/Denver] PHP Notice:  Undefined index: id_materia in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 562
+[07-Aug-2014 12:10:26 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:10:26 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 567
+[07-Aug-2014 12:10:26 America/Denver] PHP Notice:  Undefined index: id_materia in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 562
+[07-Aug-2014 12:10:26 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:10:26 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 567
+[07-Aug-2014 12:10:26 America/Denver] PHP Notice:  Undefined index: id_materia in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 562
+[07-Aug-2014 12:10:26 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:10:26 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 567
+[07-Aug-2014 12:10:26 America/Denver] PHP Notice:  Undefined index: id_materia in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 562
+[07-Aug-2014 12:10:26 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:10:26 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 567
+[07-Aug-2014 12:10:26 America/Denver] PHP Notice:  Undefined index: id_materia in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 562
+[07-Aug-2014 12:10:26 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:10:26 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 567
+[07-Aug-2014 12:10:26 America/Denver] PHP Notice:  Undefined index: id_materia in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 562
+[07-Aug-2014 12:10:26 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:10:26 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 567
+[07-Aug-2014 12:10:26 America/Denver] PHP Notice:  Undefined index: id_materia in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 562
+[07-Aug-2014 12:10:26 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:10:26 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 567
+[07-Aug-2014 12:12:32 America/Denver] PHP Notice:  Undefined index: id_materia in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 562
+[07-Aug-2014 12:12:32 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:12:32 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 567
+[07-Aug-2014 12:12:32 America/Denver] PHP Notice:  Undefined index: id_materia in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 562
+[07-Aug-2014 12:12:32 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:12:32 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 567
+[07-Aug-2014 12:12:32 America/Denver] PHP Notice:  Undefined index: id_materia in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 562
+[07-Aug-2014 12:12:32 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:12:32 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 567
+[07-Aug-2014 12:12:32 America/Denver] PHP Notice:  Undefined index: id_materia in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 562
+[07-Aug-2014 12:12:32 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:12:32 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 567
+[07-Aug-2014 12:12:32 America/Denver] PHP Notice:  Undefined index: id_materia in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 562
+[07-Aug-2014 12:12:32 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:12:32 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 567
+[07-Aug-2014 12:12:32 America/Denver] PHP Notice:  Undefined index: id_materia in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 562
+[07-Aug-2014 12:12:32 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:12:32 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 567
+[07-Aug-2014 12:12:32 America/Denver] PHP Notice:  Undefined index: id_materia in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 562
+[07-Aug-2014 12:12:32 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:12:32 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 567
+[07-Aug-2014 12:13:52 America/Denver] PHP Notice:  Undefined index: id_materia in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 561
+[07-Aug-2014 12:13:52 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:13:52 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 567
+[07-Aug-2014 12:13:52 America/Denver] PHP Notice:  Undefined index: id_materia in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 561
+[07-Aug-2014 12:13:52 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:13:52 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 567
+[07-Aug-2014 12:13:52 America/Denver] PHP Notice:  Undefined index: id_materia in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 561
+[07-Aug-2014 12:13:52 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:13:52 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 567
+[07-Aug-2014 12:13:52 America/Denver] PHP Notice:  Undefined index: id_materia in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 561
+[07-Aug-2014 12:13:52 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:13:52 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 567
+[07-Aug-2014 12:13:52 America/Denver] PHP Notice:  Undefined index: id_materia in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 561
+[07-Aug-2014 12:13:52 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:13:52 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 567
+[07-Aug-2014 12:13:52 America/Denver] PHP Notice:  Undefined index: id_materia in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 561
+[07-Aug-2014 12:13:52 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:13:52 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 567
+[07-Aug-2014 12:13:52 America/Denver] PHP Notice:  Undefined index: id_materia in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 561
+[07-Aug-2014 12:13:52 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 15
+[07-Aug-2014 12:13:52 America/Denver] PHP Notice:  Undefined property: Alumno::$id_alumno in /home4/prevenla/public_html/meze/includes/clases/class.Alumno.php on line 567

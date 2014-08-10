@@ -1,0 +1,7 @@
+[26-Jul-2014 09:42:39 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[26-Jul-2014 09:54:12 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[26-Jul-2014 10:06:53 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[28-Jul-2014 10:14:23 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[28-Jul-2014 10:37:30 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[28-Jul-2014 10:39:00 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[28-Jul-2014 10:39:05 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6

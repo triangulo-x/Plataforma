@@ -1,0 +1,22 @@
+[17-Jul-2014 10:51:55 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[17-Jul-2014 10:51:55 America/Denver] PHP Notice:  Undefined variable: id_persona in /home4/prevenla/public_html/meze/includes/acciones/cuentas/descuentos/asignar_descuentos.php on line 20
+[17-Jul-2014 10:51:55 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[17-Jul-2014 10:51:55 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Descuento.php on line 47
+[17-Jul-2014 13:16:28 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[17-Jul-2014 13:16:28 America/Denver] PHP Notice:  Undefined variable: id_persona in /home4/prevenla/public_html/meze/includes/acciones/cuentas/descuentos/asignar_descuentos.php on line 20
+[17-Jul-2014 13:16:28 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[17-Jul-2014 13:16:28 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Descuento.php on line 47
+[17-Jul-2014 13:22:30 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[17-Jul-2014 13:22:30 America/Denver] PHP Notice:  Undefined variable: id_persona in /home4/prevenla/public_html/meze/includes/acciones/cuentas/descuentos/asignar_descuentos.php on line 20
+[17-Jul-2014 13:22:30 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[17-Jul-2014 13:22:30 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Descuento.php on line 47
+[19-Jul-2014 14:44:32 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 14:44:32 America/Denver] PHP Notice:  Undefined variable: id_persona in /home4/prevenla/public_html/meze/includes/acciones/cuentas/descuentos/asignar_descuentos.php on line 20
+[19-Jul-2014 14:44:32 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[19-Jul-2014 14:44:32 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Descuento.php on line 47
+[21-Jul-2014 13:50:06 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[21-Jul-2014 13:50:06 America/Denver] PHP Notice:  Undefined variable: id_persona in /home4/prevenla/public_html/meze/includes/acciones/cuentas/descuentos/asignar_descuentos.php on line 20
+[21-Jul-2014 13:50:06 America/Denver] PHP Notice:  Trying to get property of non-object in /home4/prevenla/public_html/meze/includes/clases/class.Database.php on line 16
+[21-Jul-2014 13:50:06 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Descuento.php on line 47
+[25-Jul-2014 10:37:53 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[28-Jul-2014 10:14:52 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6

@@ -1,0 +1,35 @@
+[17-Jul-2014 13:21:43 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[17-Jul-2014 13:21:43 America/Denver] PHP Notice:  Undefined variable: comentario in /home4/prevenla/public_html/meze/includes/acciones/cuentas/pagos/pagar_colegiaturas.php on line 29
+[17-Jul-2014 13:21:43 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Cuenta.php on line 41
+[17-Jul-2014 13:21:43 America/Denver] PHP Notice:  Undefined variable: comentario in /home4/prevenla/public_html/meze/includes/acciones/cuentas/pagos/pagar_colegiaturas.php on line 29
+[17-Jul-2014 13:21:43 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Cuenta.php on line 41
+[17-Jul-2014 13:22:48 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[17-Jul-2014 13:22:48 America/Denver] PHP Notice:  Undefined variable: comentario in /home4/prevenla/public_html/meze/includes/acciones/cuentas/pagos/pagar_colegiaturas.php on line 29
+[17-Jul-2014 13:22:48 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Cuenta.php on line 41
+[17-Jul-2014 13:22:48 America/Denver] PHP Notice:  Undefined variable: comentario in /home4/prevenla/public_html/meze/includes/acciones/cuentas/pagos/pagar_colegiaturas.php on line 29
+[17-Jul-2014 13:22:48 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Cuenta.php on line 41
+[19-Jul-2014 14:41:38 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 14:45:36 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[19-Jul-2014 14:45:36 America/Denver] PHP Notice:  Undefined variable: comentario in /home4/prevenla/public_html/meze/includes/acciones/cuentas/pagos/pagar_colegiaturas.php on line 29
+[19-Jul-2014 14:45:36 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Cuenta.php on line 41
+[19-Jul-2014 14:45:36 America/Denver] PHP Notice:  Undefined variable: comentario in /home4/prevenla/public_html/meze/includes/acciones/cuentas/pagos/pagar_colegiaturas.php on line 29
+[19-Jul-2014 14:45:36 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Cuenta.php on line 41
+[21-Jul-2014 13:49:08 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[21-Jul-2014 16:17:56 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[21-Jul-2014 16:17:56 America/Denver] PHP Notice:  Undefined variable: comentario in /home4/prevenla/public_html/meze/includes/acciones/cuentas/pagos/pagar_colegiaturas.php on line 29
+[21-Jul-2014 16:17:56 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Cuenta.php on line 41
+[21-Jul-2014 16:19:07 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/validar_acceso.php on line 6
+[21-Jul-2014 16:19:07 America/Denver] PHP Notice:  Undefined variable: comentario in /home4/prevenla/public_html/meze/includes/acciones/cuentas/pagos/pagar_colegiaturas.php on line 29
+[21-Jul-2014 16:19:07 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Cuenta.php on line 41
+[21-Jul-2014 16:19:07 America/Denver] PHP Notice:  Undefined variable: comentario in /home4/prevenla/public_html/meze/includes/acciones/cuentas/pagos/pagar_colegiaturas.php on line 29
+[21-Jul-2014 16:19:07 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Cuenta.php on line 41
+[21-Jul-2014 16:19:07 America/Denver] PHP Notice:  Undefined variable: comentario in /home4/prevenla/public_html/meze/includes/acciones/cuentas/pagos/pagar_colegiaturas.php on line 29
+[21-Jul-2014 16:19:07 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Cuenta.php on line 41
+[21-Jul-2014 16:19:07 America/Denver] PHP Notice:  Undefined variable: comentario in /home4/prevenla/public_html/meze/includes/acciones/cuentas/pagos/pagar_colegiaturas.php on line 29
+[21-Jul-2014 16:19:07 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Cuenta.php on line 41
+[21-Jul-2014 16:19:07 America/Denver] PHP Notice:  Undefined variable: comentario in /home4/prevenla/public_html/meze/includes/acciones/cuentas/pagos/pagar_colegiaturas.php on line 29
+[21-Jul-2014 16:19:07 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Cuenta.php on line 41
+[21-Jul-2014 16:19:07 America/Denver] PHP Notice:  Undefined variable: comentario in /home4/prevenla/public_html/meze/includes/acciones/cuentas/pagos/pagar_colegiaturas.php on line 29
+[21-Jul-2014 16:19:07 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Cuenta.php on line 41
+[21-Jul-2014 16:19:07 America/Denver] PHP Notice:  Undefined variable: comentario in /home4/prevenla/public_html/meze/includes/acciones/cuentas/pagos/pagar_colegiaturas.php on line 29
+[21-Jul-2014 16:19:07 America/Denver] PHP Notice:  A session had already been started - ignoring session_start() in /home4/prevenla/public_html/meze/includes/clases/class.Cuenta.php on line 41

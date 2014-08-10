@@ -1,0 +1,10 @@
+[19-Jul-2014 14:48:45 America/Denver] PHP Notice:  Undefined index: grado in /home4/prevenla/public_html/meze/includes/clases/class.Maestro.php on line 16
+[19-Jul-2014 14:48:45 America/Denver] PHP Notice:  Undefined index: grupo in /home4/prevenla/public_html/meze/includes/clases/class.Maestro.php on line 17
+[21-Jul-2014 15:44:30 America/Denver] PHP Notice:  Undefined index: grado in /home4/prevenla/public_html/meze/includes/clases/class.Maestro.php on line 16
+[21-Jul-2014 15:44:30 America/Denver] PHP Notice:  Undefined index: grupo in /home4/prevenla/public_html/meze/includes/clases/class.Maestro.php on line 17
+[25-Jul-2014 11:57:33 America/Denver] PHP Notice:  Undefined index: grado in /home4/prevenla/public_html/meze/includes/clases/class.Maestro.php on line 16
+[25-Jul-2014 11:57:33 America/Denver] PHP Notice:  Undefined index: grupo in /home4/prevenla/public_html/meze/includes/clases/class.Maestro.php on line 17
+[25-Jul-2014 11:57:33 America/Denver] PHP Notice:  Undefined variable: egresadode in /home4/prevenla/public_html/meze/includes/acciones/maestros/insert.php on line 35
+[28-Jul-2014 10:37:07 America/Denver] PHP Notice:  Undefined index: grado in /home4/prevenla/public_html/meze/includes/clases/class.Maestro.php on line 16
+[28-Jul-2014 10:37:07 America/Denver] PHP Notice:  Undefined index: grupo in /home4/prevenla/public_html/meze/includes/clases/class.Maestro.php on line 17
+[28-Jul-2014 10:37:07 America/Denver] PHP Notice:  Undefined variable: egresadode in /home4/prevenla/public_html/meze/includes/acciones/maestros/insert.php on line 35

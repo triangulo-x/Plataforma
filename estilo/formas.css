@@ -1,0 +1,68 @@
+form
+{
+    overflow: auto;
+    font-family: sans-serif;
+    min-width: 600px;
+    margin: auto;
+}
+
+.form_row
+{
+    width: 90%;
+    overflow: auto;
+    margin: 10px 0;
+}
+
+.form_row_2
+{
+    float: left;
+    height: 80px;
+    margin: 30px 2.5% 10px 0;
+    width: 45%;
+}
+
+.form_row_3
+{
+    float: left;
+    height: 80px;
+    margin: 30px 2.5% 10px 0;
+    width: 30%;
+}
+
+.form_label
+{
+    display: block;
+    font-size: 14px;
+    width: 100%;
+}
+
+.form_input
+{
+    width: 80%;
+    height: 40px;
+    padding-left: 10px;
+    border: 1px solid #a4c7e1;
+}
+
+.form_input_mini
+{
+    width: 40%;
+    height: 40px;
+    padding-left: 10px;
+    border: 1px solid #a4c7e1;
+}
+
+.form_submit
+{
+    width: 100px;
+    height: 40px;
+    border: 1px solid #152975;
+    color: #152975;
+    margin: auto;
+}
+
+.form_submit:hover
+{
+    background-color: #152975;
+    color: #e6e6e6;
+}

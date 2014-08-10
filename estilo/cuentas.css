@@ -1,0 +1,46 @@
+#tabla_pagos_wrapper
+{
+    float: left;
+    margin-top: 25px;
+    overflow: auto;
+    width: 100%;
+}
+
+#tabla_pagos
+{
+    width: 100%;
+    border: 1px solid #A4C7E1;
+    border-collapse: collapse;
+    text-align: left;
+    font-size: 12px;
+}
+
+#tabla_pagos tbody tr
+{
+    height: 30px;
+}
+
+#abonoVal
+{
+    width: 100px;
+}
+
+#tabla_pagos thead
+{
+    background-color: #152975;
+    color: #FFFFFF;
+    height: 30px;
+}
+
+#div_monto_a_pagar
+{
+    float: left;
+    font-size: 12px;
+    margin-top: 20px;
+}
+
+#boton_pagar
+{
+    float: right;
+    margin-top: 50px
+}

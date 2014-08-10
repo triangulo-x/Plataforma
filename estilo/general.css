@@ -1,0 +1,283 @@
+a, a:hover, a:active, a:visited
+{
+    text-decoration: none;
+    cursor: default;
+}
+
+body
+{
+    font-family: sans-serif;
+    padding: 0px;
+    margin: 0px;
+    background-image: url("../media/imagenes/fondo.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h2
+{
+    overflow: auto;
+    text-align: center;
+}
+
+#wrapper
+{
+    width: 100%;
+    min-width: 800px;
+}
+
+#header
+{
+    background: #15186d; /* Old browsers */
+    background: -moz-linear-gradient(top,  #15186d 0%, #152975 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#15186d), color-stop(100%,#152975)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #15186d 0%,#152975 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #15186d 0%,#152975 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #15186d 0%,#152975 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #15186d 0%,#152975 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#15186d', endColorstr='#152975',GradientType=0 ); /* IE6-9 */
+
+    width: 100%;
+    overflow: auto;
+}
+
+img#logo_meze
+{
+    float: left;
+    margin: 5px 10px;
+    width: 40px;
+}
+
+#header #header_titulo
+{
+    color: #E6E6E6;
+    font-size: 25px;
+    margin-top: 20px;
+    overflow: auto;
+    text-align: center;
+    width: 84%;
+}
+
+div#nombre_sesion
+{
+    color: #E6E6E6;
+    float: right;
+    font-size: 15px;
+    padding-right: 20px;
+    text-align: right;
+    width: 20%;
+}
+
+div#header a#link_logout
+{
+    color: #e6e6e6;
+    float: right;
+    text-decoration: none;
+}
+
+#content
+{
+    position: relative;
+    margin: auto;
+    overflow: auto;
+    width: 1000px;
+}
+
+nav.menu_strip
+{
+    background-image: url(/media/texturas/menu_strip.png);
+    background-color: #15186d;
+    width: 100%;
+    height: 30px;
+    color: #EEEEEE;
+    cursor: default;
+}
+
+.li_menu
+{
+    text-align: center;
+    float: left;
+    height: 20px;
+    width: 80px;
+    padding: 5px;
+}
+
+.li_menu:hover
+{
+    background-image: url(/media/texturas/submenu.jpg);
+}
+
+#menu_strip_lista
+{
+    height: 30px;
+    list-style: none outside none;
+    margin: 0;
+    overflow: auto;
+    padding: 0;
+    width: 100%;
+}
+
+#menu_strip_lista li a
+{
+    text-decoration: none;
+    color: #EEEEEE;
+    display: block;
+}
+
+.submenu
+{
+    display: none;
+    background-image: url("/media/texturas/submenu.jpg");
+    list-style: none outside none;
+    margin: 5px -5px;
+    padding: 0;
+    position: absolute;
+    width: 170px;
+    border-radius: 0px 0px 5px 5px;
+    z-index: 5;
+}
+
+.li_submenu
+{
+    height: 20px;
+    padding: 5px 0;
+}
+
+#menu_strip_lista li:hover .submenu
+{
+    display: block;
+}
+
+#inner_content
+{
+    overflow: auto;
+    min-width: 620px;
+    padding: 20px;
+}
+
+button
+{
+    width: 100px;
+    height: 40px;
+    border: 1px solid #152975;
+    color: #152975;
+}
+
+button:hover
+{
+    background-color: #152975;
+    color: #e6e6e6;
+}
+
+div#footer
+{
+    background: #15186d; /* Old browsers */
+    background: -moz-linear-gradient(top,  #15186d 0%, #152975 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#15186d), color-stop(100%,#152975)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #15186d 0%,#152975 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #15186d 0%,#152975 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #15186d 0%,#152975 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #15186d 0%,#152975 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#15186d', endColorstr='#152975',GradientType=0 ); /* IE6-9 */
+    
+    width: 100%;
+    height: 100px;
+    overflow: auto;
+}
+
+.error
+{
+    color: red;
+    font-size: 12px;
+    overflow: auto;
+    width: 80%;
+    display: block;
+}
+
+#error_msg
+{
+    color: red;
+    font-size: 14px;
+    overflow: auto;
+    width: 80%;
+    display: block;
+    text-align: center;
+}
+
+.error_msg_big
+{
+    color: red;
+    font-size: 28px;
+    overflow: auto;
+    display: block;
+    text-align: center;
+}
+
+.div_control_dato
+{
+    width: 50%;
+    float: left;
+}
+
+.div_control_dato_label
+{
+    width: 30%;
+    float: left;
+}
+
+.div_control_dato_valor
+{
+    width: 70%;
+    float: left;
+    font-weight: bold;
+}
+
+.link_estilizado
+{
+    border: 1px solid #CCCCCC;
+    color: black;
+    float: left;
+    font-size: 22px;
+    height: 26px;
+    margin: 10px 0;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    width: 200px;
+    background-color: #e9f2ff;
+}
+
+.link_estilizado:hover
+{
+    background-color: #bad6ff;
+}
+
+#link_perfil, #link_perfil:hover, #link_perfil:visited, #link_perfil:active
+{
+    color: #CCCCCC;
+    text-decoration: none;
+}
+
+.submenu2
+{
+    background-image: url("/media/texturas/submenu.jpg");
+    float: left;
+    left: 170px;
+    list-style: none outside none;
+    padding: 0;
+    position: absolute;
+    display: none;
+    top: 0px;
+    z-index: 10;
+}
+
+.li_submenu:hover .submenu2
+{
+    display: block;
+}
+
+.submenu2 li
+{
+    padding: 5px 10px;
+    border-radius: 0 0 5px 5px;
+}
