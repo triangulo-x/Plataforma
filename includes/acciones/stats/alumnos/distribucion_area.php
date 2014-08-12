@@ -30,16 +30,17 @@ function pie()
 {
     global $dist;
     $arr = array();
-    array_push($arr, array(value => $dist[0]['A1'], "color" => "#A3A3FA"));
-    array_push($arr, array(value => $dist[0]['A2'], "color" => "#FF7373"));
-    array_push($arr, array(value => $dist[0]['A3'], "color" => "#8BFF8B"));
-    array_push($arr, array(value => $dist[0]['A4'], "color" => "#FFFB9B"));
-    array_push($arr, array(value => $dist[0]['A5'], "color" => "#D873FF"));
+    array_push($arr, array("value" => $dist[0]['A1'], "color" => "#A3A3FA"));
+    array_push($arr, array("value" => $dist[0]['A2'], "color" => "#FF7373"));
+    array_push($arr, array("value" => $dist[0]['A3'], "color" => "#8BFF8B"));
+    array_push($arr, array("value" => $dist[0]['A4'], "color" => "#FFFB9B"));
+    array_push($arr, array("value" => $dist[0]['A5'], "color" => "#D873FF"));
     echo json_encode($arr);
 }
 
 if(is_array($dist))
 {
+    global $tipo;
     switch($tipo)
     {
         case 1: barra(); break;

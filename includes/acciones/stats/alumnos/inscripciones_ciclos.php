@@ -14,7 +14,7 @@ if(is_array($ciclos))
     $json = array();
     foreach($ciclos as $ciclo)
     {
-        array_push($json, array(ciclo => $ciclo['ciclo'], altas => $ciclo['altas'], bajas => $ciclo['bajas']));
+        array_push($json, array("ciclo" => $ciclo['ciclo'], "altas" => $ciclo['altas'], "bajas" => $ciclo['bajas']));
     }
     echo json_encode($json);
 }

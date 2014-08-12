@@ -44,7 +44,7 @@ $becas = $ciclo_actual->getBecas();
                 <h1>Becas</h1>
                 
                 <div style="margin: 20px 0;">
-                    Total de alumnos becados en este ciclo escolar: <? echo $ciclo_actual->getCountBecas(); ?>
+                    Total de alumnos becados en este ciclo escolar: <?php echo $ciclo_actual->getCountBecas(); ?>
                 </div>
 
                 <table id="tabla_becas" >

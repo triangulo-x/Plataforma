@@ -15,14 +15,14 @@
         
         <form id='forma_login' action="includes/login.php" method="post">
             <img src="media/logos/meze.png" alt="Colegio Meze" style="width: 100px; margin: 30px 200px 0;" />
-            <?php if($error == 1) echo "<div id='error_msg' >Datos erroneos. Porfavor intente de nuevo.</div>"; ?>
+            <?php if(isset($error)) echo "<div id='error_msg' >Datos erroneos. Porfavor intente de nuevo.</div>"; ?>
             <p>
-                <label>Matrícula</label>
-                <input class="input" type="text" name="matriculaVal" />
+                <label for="matriculaVal">Matrícula</label>
+                <input class="input" type="text" name="matriculaVal" id="matriculaVal"/>
             </p>
             <p>
-                <label>Contraseña</label>
-                <input class="input" type="password" name="passwordVal" />
+                <label for="passwordVal">Contraseña</label>
+                <input class="input" type="password" name="passwordVal" id="passwordVal"/>
             </p>
             <p>
                 <input id="boton_aceptar" type="submit" value="Aceptar" />

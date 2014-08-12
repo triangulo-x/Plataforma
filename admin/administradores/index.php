@@ -94,7 +94,7 @@ $administradores = Administrador::getLista();
                         ?>
                         </tbody>
                     </table>
-                    <?php if($_GET['error'] == 1) echo '<div class="error">No puede eliminar ese administrador.</div>'; ?>
+                    <?php if(isset($_GET['error'])) echo '<div class="error">No puede eliminar ese administrador.</div>'; ?>
                 </div>
 
             </div>
