@@ -48,21 +48,8 @@
                 <li class="li_submenu" ><a href="/admin/grados/nuevo.php" >Nuevo</a></li>
             </ul>
         </li>
-        <li class="li_menu" >
-            Grupos
-            <ul class="submenu" >
-                <li class="li_submenu" ><a href="/admin/grupos/grupos_actuales.php" >Actuales</a></li>
-                <li class="li_submenu" ><a href="/admin/grupos/index.php" >Lista</a></li>
-                <li class="li_submenu" ><a href="/admin/grupos/nuevo.php" >Nuevo</a></li>
-            </ul>
-        </li>
-        <li class="li_menu" >
-            Materias
-            <ul class="submenu" >
-                <li class="li_submenu" ><a href="/admin/materias/index.php" >Lista</a></li>
-                <li class="li_submenu" ><a href="/admin/materias/nueva.php" >Nueva</a></li>
-            </ul>
-        </li>
+        <li class="li_menu" ><a href="/admin/grupos/index.php" >Grupos</a></li>
+        <li class="li_menu" ><a href="/admin/materias/index.php" >Materias</a></li>
         <li class="li_menu" >
             Cuentas
             <ul class="submenu" >
