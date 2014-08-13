@@ -15,7 +15,7 @@ if(is_array($ciclos))
     foreach($ciclos as $ciclo)
     {
         $ciclo_escolar = new CicloEscolar($ciclo['id_ciclo_escolar']);
-        array_push($json, array(ciclo => $ciclo['ciclo_escolar'], alumnos => $ciclo_escolar->getCountAlumnosInscritos()));
+        array_push($json, array("ciclo" => $ciclo['ciclo_escolar'], "alumnos" => $ciclo_escolar->getCountAlumnosInscritos()));
     }
     echo json_encode($json);
 }
