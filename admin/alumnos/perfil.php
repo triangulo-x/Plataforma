@@ -15,8 +15,6 @@ $ciclo      = CicloEscolar::getActual();
 $grupo      = $alumno->getGrupo($ciclo->id_ciclo_escolar);
 $grado      = $alumno->getGrado($ciclo->id_ciclo_escolar);
 ?>
-
-
 <html lang="en">
     <head>
         <meta charset="utf-8" />
@@ -403,7 +401,7 @@ $grado      = $alumno->getGrado($ciclo->id_ciclo_escolar);
                         <div class="datos_generales_row">
                             <div class="datos_generales_label">Grupo:</div>
                             <div class="datos_generales_value">
-                                <?php echo $grupo['grupo']; ?>
+                                <?php echo $grupo; ?>
                                 <img src="/media/iconos/icon_modify.png"
                                      ALT="M" onclick="cambiarGrupoClicked()"
                                      style="width: 15px" title="Cambiar grupo" />

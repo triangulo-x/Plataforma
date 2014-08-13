@@ -13,8 +13,6 @@ if ($persona->id_persona != 0)
     $_SESSION['apellido_paterno']   = $persona->apellido_paterno;
     $_SESSION['apellido_materno']   = $persona->apellido_materno;
     $_SESSION['nombres']            = $persona->nombres;
-    $_SESSION['grado']              = $persona->grado;
-    $_SESSION['grupo']              = $persona->grupo;
     $_SESSION['password']           = $persona->password;
     $_SESSION['tipo_persona']       = $persona->tipo_persona;
 

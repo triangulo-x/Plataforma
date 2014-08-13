@@ -348,9 +348,12 @@ $tipos_tutor = Tutor::getTipos();
                                 <select class="form_input" name="becaTipoVal" id="becaTipoVal" onchange="cargarSubtipos();">
                                     <?php
                                     $tipos_beca = Beca::getTipos();
-                                    foreach($tipos_beca as $tipo)
+                                    if(is_array($tipos_beca))
                                     {
-                                        echo "<option value='".$tipo['id_tipo_beca']."'>".$tipo['tipo_beca']."</option>";
+                                        foreach($tipos_beca as $tipo)
+                                        {
+                                            echo "<option value='".$tipo['id_tipo_beca']."'>".$tipo['tipo_beca']."</option>";
+                                        }
                                     }
                                     ?>
                                 </select>
